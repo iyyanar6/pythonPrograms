@@ -14,5 +14,5 @@ for i in range(0,a):
 
 
     #x=list1.extend(i)
-print(list1)
+print("result=",list1)
     
